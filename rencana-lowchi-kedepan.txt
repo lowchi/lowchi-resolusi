@@ -1,0 +1,6 @@
+rencana perbaikan diri saya
+-mengusai php
+=> php dasar
+=> php crud
+-menguasai html
+-menguasai cpp
